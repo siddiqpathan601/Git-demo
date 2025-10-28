@@ -1,5 +1,6 @@
 # Git-demo
 This is my first git 
 <br>
-Author -Siddiq
+Author -khan
+
 
